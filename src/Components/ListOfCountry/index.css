@@ -1,0 +1,18 @@
+.countries-list {
+    list-style: none;
+    cursor: pointer;
+    column-count: 4;
+}
+
+.country-Name:hover{
+    color: blue;
+}
+
+.country-Name:active{
+    color: blue;
+}
+
+.country-data {
+    position: fixed;
+    left: 36%;
+}
